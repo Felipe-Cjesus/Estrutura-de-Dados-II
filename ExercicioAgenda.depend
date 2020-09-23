@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1408580020 source:d:\conteudo por anos\2014\unesc\sem b\estruturas de dados ii\aulas 2014 b\2. map\exercícios  - prática com map (correção) - agenda\exercicio_agenda_telefone\main.cpp
+	<cstdlib>
+	<iostream>
+	<map>
+	"func_pessoa.h"
+
+1338149112 d:\conteudo por anos\2014\unesc\sem b\estruturas de dados ii\aulas 2014 b\2. map\exercícios  - prática com map (correção) - agenda\exercicio_agenda_telefone\func_pessoa.h
+	<string>
+	<iostream>
+
+1408580020 source:d:\conteudo por anos\2015\unesc\sema\edii\2. map\exercícios  - prática com map (correção) - agenda\exercicio_agenda_telefone\main.cpp
+	<cstdlib>
+	<iostream>
+	<map>
+	"func_pessoa.h"
+
+1338149112 d:\conteudo por anos\2015\unesc\sema\edii\2. map\exercícios  - prática com map (correção) - agenda\exercicio_agenda_telefone\func_pessoa.h
+	<string>
+	<iostream>
+
+1426715129 source:d:\conteudo por anos\2015\unesc\semb\edii\2. map\exercícios  - prática com map (correção) - agenda\exercicio_agenda_telefone\main.cpp
+	<cstdlib>
+	<iostream>
+	<map>
+	"func_pessoa.h"
+
+1338149112 d:\conteudo por anos\2015\unesc\semb\edii\2. map\exercícios  - prática com map (correção) - agenda\exercicio_agenda_telefone\func_pessoa.h
+	<string>
+	<iostream>
+
